@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1814"/>
+  <!-- Border -->
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#332f28" stroke-width="2"/>
+  <!-- Logo -->
+  <text x="80" y="210" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="88" font-weight="700" letter-spacing="-2" fill="#e0d8c8">feed<tspan fill="#c8a84e">lint</tspan></text>
+  <!-- Tagline -->
+  <text x="82" y="268" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="26" fill="#8f8577">RSS &amp; Atom feed validator — browser-side, no signup</text>
+  <!-- Divider -->
+  <line x1="80" y1="300" x2="1120" y2="300" stroke="#332f28" stroke-width="1"/>
+  <!-- Check items -->
+  <text x="110" y="356" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#5a9e6a">&#x2713;</text>
+  <text x="145" y="356" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#8f8577">missing required elements</text>
+  <text x="520" y="356" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#5a9e6a">&#x2713;</text>
+  <text x="555" y="356" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#8f8577">malformed tags</text>
+  <text x="110" y="400" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#5a9e6a">&#x2713;</text>
+  <text x="145" y="400" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#8f8577">podcast directory requirements</text>
+  <text x="520" y="400" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#5a9e6a">&#x2713;</text>
+  <text x="555" y="400" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="24" fill="#8f8577">RSS 2.0 + Atom 1.0</text>
+  <!-- Example feed snippet -->
+  <rect x="80" y="425" width="1040" height="115" rx="6" fill="#211f1b" stroke="#332f28" stroke-width="1"/>
+  <text x="110" y="460" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#c85050">&#x2717;</text>
+  <text x="133" y="460" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#8f8577">&lt;channel&gt; missing &lt;title&gt; — required element</text>
+  <text x="110" y="490" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#c87830">&#x26a0;</text>
+  <text x="133" y="490" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#8f8577">&lt;pubDate&gt; not RFC-2822 format</text>
+  <text x="110" y="520" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#5a9e6a">&#x2713;</text>
+  <text x="133" y="520" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="17" fill="#8f8577">itunes:author present</text>
+  <!-- Domain -->
+  <text x="80" y="610" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" font-size="20" fill="#332f28">feedlint.radicchio.page</text>
+</svg>
